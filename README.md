@@ -25,25 +25,10 @@ Youtube C programming
 
 
 ## SDLC activity:
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e645ec83082d41518de63594a89d41b3)](https://www.codacy.com/gh/pavankumar2266/M1_Banking_management_system_app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavankumar2266/M1_Banking_management_system_app&amp;utm_campaign=Badge_Grade)
+* ![codiga](https://api.codiga.io/project/32193/score/svg)                                                                  |
+* ![codiga](https://api.codiga.io/project/32193/status/svg)
+![Screenshot (10)](https://user-images.githubusercontent.com/62783715/160656042-9fe43dc8-8747-4c82-bbb5-2834c5aade6d.png)
 
-[![Bulid Linux](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Bulid%20Linux.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Bulid%20Linux.yml)
-
-[![Build Windows](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Build%20windows.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Build%20windows.yml)
-
-[![CI](https://github.com/pavankumar2266/M1_Banking_management_system_app/actions/workflows/main.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_app/actions/workflows/main.yml)
-
-[![Unit testing](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Unit%20testing.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Unit%20testing.yml)
-
-![code quality](https://api.codiga.io/project/31168/score/svg)
-
-![code grade](https://api.codiga.io/project/31168/status/svg)
-
-[![Valgrind](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Valgrind.yml)
-
-[![Cpp check](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Cpp%20check.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Cpp%20check.yml)
-
-[![Contribution Check - Git Inspector](https://github.com/pavankumar2266/M1_Banking_management_system_app/actions/workflows/check.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_app/actions/workflows/check.yml)
 
 
 

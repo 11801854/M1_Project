@@ -17,10 +17,8 @@ Bank Account Management System keeps the day by day tally record as a complete b
 | 3_Implementation | All code and documentation |
 | 4_Test_plan |	Documents with test plans and procedures |
 
-## References
-Methods to upload project from Google 
+## Badges:
 
-Youtube C programming
 
 
 
@@ -29,7 +27,10 @@ Youtube C programming
 * ![codiga](https://api.codiga.io/project/32193/status/svg)
 ![Screenshot (10)](https://user-images.githubusercontent.com/62783715/160656042-9fe43dc8-8747-4c82-bbb5-2834c5aade6d.png)
 
+## References
+Methods to upload project from Google 
 
+Youtube C programming
 
 
 

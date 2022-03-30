@@ -1,6 +1,6 @@
 # M1_Project
 
-## Project Name :- BANKING MANAGEMENT SYSTEM
+## Project Topic :- BANKING MANAGEMENT SYSTEM
 
 ## Introduction:-
 

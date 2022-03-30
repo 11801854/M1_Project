@@ -1,6 +1,6 @@
 # M1_Project
 
-## BANKING MANAGEMENT SYSTEM:
+## Project Name :- BANKING MANAGEMENT SYSTEM
 
 ## Introduction:-
 
@@ -18,7 +18,7 @@ Bank Account Management System keeps the day by day tally record as a complete b
 | 4_Test_plan |	Documents with test plans and procedures |
 
 ## References
-Greeks for Greeks
+Methods to upload project from Google 
 
 Youtube C programming
 

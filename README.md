@@ -19,7 +19,7 @@ Bank Account Management System keeps the day by day tally record as a complete b
 
 ## Badges:
 
-
+[![Build CI](https://github.com/11801854/M1_Project/actions/workflows/BuildCI.yml/badge.svg)](https://github.com/11801854/M1_Project/actions/workflows/BuildCI.yml)
 
 
 ## SDLC activity:

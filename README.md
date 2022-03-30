@@ -31,6 +31,7 @@ Bank Account Management System keeps the day by day tally record as a complete b
 
 [![Contribution check](https://github.com/11801854/M1_Project/actions/workflows/Contibution%20check.yml/badge.svg)](https://github.com/11801854/M1_Project/actions/workflows/Contibution%20check.yml)
 
+[![Valgrind](https://github.com/11801854/M1_Project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/11801854/M1_Project/actions/workflows/Valgrind.yml)
 
 ## SDLC activity:
 * ![codiga](https://api.codiga.io/project/32193/score/svg)                                                                  |

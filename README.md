@@ -20,7 +20,7 @@ Bank Account Management System keeps the day by day tally record as a complete b
 ## Badges:
 
 [![Build CI](https://github.com/11801854/M1_Project/actions/workflows/BuildCI.yml/badge.svg)](https://github.com/11801854/M1_Project/actions/workflows/BuildCI.yml)
-
+[![Build Linux](https://github.com/11801854/M1_Project/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/11801854/M1_Project/actions/workflows/Build%20Linux.yml)
 
 ## SDLC activity:
 * ![codiga](https://api.codiga.io/project/32193/score/svg)                                                                  |

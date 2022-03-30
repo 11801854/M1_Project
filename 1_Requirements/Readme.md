@@ -31,29 +31,16 @@
 ## 4W's and 1'H
 
 ## Who:
-
-    * Banking Management System is a software solution by providing organized form. This system is used for any kind of Bank details into a particular order in order to maintain it in a organized form 
+ * Banking Management System is a software solution by providing organized form. This system is used for any kind of Bank details into a particular order in order to maintain it in a organized form 
 ## What:
-
-    * It is helpful for the management to save time.
-     
+ * It is helpful for the management to save time.
 ## When:
-
-    * The Banking Management System is now used in Banking department for easy sorting 
-     
+ * The Banking Management System is now used in Banking department for easy sorting 
 ## Where:
-
-    * Face the issues in collection of Bank details.
-    
+* Face the issues in collection of Bank details.
 ## How:
-
-     * This issue can be solved by requesting any proof 
+* This issue can be solved by requesting any proof 
      
-
-
-
-
-
 ## Best methods followed
  * Used functions to decrease dependency on main function.
  * Used structures and arrays and sorting algorithms to accept the inputs from user and store the values which helped in creating easy design of Banking management system.

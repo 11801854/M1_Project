@@ -27,8 +27,6 @@
 
 * Management selects the case which they want(Case 1: Account number 2:Account Type, Case 3: Transcation details, Case 4: Address details)the Bank details are sorted according to selected case
 
-## SWOT Analysis:
-![swot analysis](https://user-images.githubusercontent.com/62882163/156324881-10cca4e7-997f-4220-b1ac-ce1907670c89.png)
 
 ## 4W's and 1'H
 
@@ -51,30 +49,9 @@
 
      * This issue can be solved by requesting any proof 
      
-## Detail requirements 
-
-## High Level Requirements:
-
-| ID | Description | Category | Status |
-| ---- | -------------------------- | ------ | ----- |
-| HR01 | Management should be able to select the choice | Techincal | TBD-S1 |
-| HR01 | Management should be able to enter customer name first name and last name | Techincal | TBD-S1 |
-| HR02 | Management should be able to enter  Account number | Techincal | TBD-S1 |
-| HR03 | Management should be able to enter PHN  | Techincal | TBD-S1 |
-| HR04 | Management should be able to enter adharcard number | Techincal | TBD-S1 |
-| HR05 | Details should be sorted according to selected case |	Techincal | TBD-S1 |
 
 
-## Low level Requirements:
 
-| ID | Description | HLR ID | Status (Implemented/Future) |
-| ---- | -------------------------------------- | ---- | ----- |
-| LR01 | Management should be able to select the choice | HR01 | TBD-S1 |
-| LR02 | Management should be able to select choice 1 account number | HR02 | TBD-S1 |
-| LR03 | Management should be able to select choice 2 Account Type | HR02 | TBD-S1 |
-| LR04 | Management should be able to select choice 3 Account details | HR02 | TBD-S1 |
-| LR05 | Management should be able to select choice 4 Transcation details | HR04 | TBD-S1 |
-| LR06 | Details should be sorted according to selected case | HR07 | TBD-S1 |
 
 
 ## Best methods followed
